@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+
+프로젝트목록 | 일자 | 사용기술 | 링크
+------------|------|-------|-----|
+금융상품서비스 | 2021 | Node | [GAN 프로젝트 링크](https://github.com/shiny0510/FewShot_GAN-Unet3D)
+금융추천시스템 | 2022 | Vue | [링크를걸겠습니다.](https://github.com/shiny0510/pycaret)
+
+
+
 <!--
 **Jordizzin/Jordizzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
