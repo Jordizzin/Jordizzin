@@ -7,6 +7,7 @@
 금융상품서비스 | 2021 | Node | [GAN 프로젝트 링크](https://github.com/shiny0510/FewShot_GAN-Unet3D)
 금융추천시스템 | 2022 | Vue | [링크를걸겠습니다.](https://github.com/shiny0510/pycaret)
 
+![화면 캡처 2023-04-28 115216](https://user-images.githubusercontent.com/76608338/235043096-8829e891-4693-477c-8539-82c66823df7c.png)
 
 
 <!--
