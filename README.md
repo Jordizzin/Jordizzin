@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!-- 
 
 
 프로젝트목록 | 일자 | 사용기술 | 링크
@@ -9,7 +9,7 @@
 
 ![화면 캡처 2023-04-28 115216](https://user-images.githubusercontent.com/76608338/235043096-8829e891-4693-477c-8539-82c66823df7c.png)
 
-
+ -->
 <!--
 **Jordizzin/Jordizzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
