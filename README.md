@@ -65,7 +65,7 @@
 <br>
 <br>
 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jordizzin%2Fgjbae1212%2Fhit-counter&count_bg=%23A997E9&title_bg=%237E96F1&icon=tencentqq.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJordizzin&count_bg=%23EFC8C8&title_bg=%239E9E9E&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 
