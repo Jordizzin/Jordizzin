@@ -2,8 +2,8 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YEJIN's%20Github!&fontSize=90" />	
 </div>
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
+	<h2>📚 Tech Stack 📚</h2>
+	<h4>✨ Platforms & Languages ✨</h4>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -19,7 +19,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<h4>🛠 Tools 🛠</h4>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
@@ -29,7 +29,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<h4>🎨 SNS & Portfolio 🎨</h4>
 </div>
 <div align=center>
 	<a href="">
@@ -47,7 +47,7 @@
 	<br>
 
 <br>
-<p>🏆 Baekjoon solved rank 🏆</p>
+<h4>🏆 Baekjoon solved rank 🏆</h4>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yejin328)](https://solved.ac/yejin328)
 </div>
